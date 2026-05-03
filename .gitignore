@@ -1,0 +1,41 @@
+# ── Build Output ──────────────────────────────────────────────────────────────
+x64/
+NBodySimulator/x64/
+Debug/
+Release/
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.idb
+*.ipdb
+*.iobj
+
+# ── Visual Studio ─────────────────────────────────────────────────────────────
+.vs/
+*.suo
+*.user
+*.sln.docdata
+*.vcxproj.user
+*.VC.db
+*.VC.opendb
+*.opensdf
+*.sdf
+ipch/
+
+# ── Python Cache ──────────────────────────────────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# ── Generated Benchmark Output ────────────────────────────────────────────────
+results/
+NBodySimulator/x64/Debug/benchmark_*.csv
+
+# ── OS Files ──────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini

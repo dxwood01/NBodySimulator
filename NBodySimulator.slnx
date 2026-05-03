@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="NBodySimulator/NBodySimulator.vcxproj" Id="197a0f5a-0675-4460-8642-7063ad3b6362" />
+</Solution>
